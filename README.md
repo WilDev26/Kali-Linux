@@ -1,10 +1,5 @@
 ## DOWNLOAD TERMUX FDROID
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
-
-<p align="center">
-<a href="#"><img title="Host" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/trackip.png"></a>
-</p>
-
 ## install package otomatis 
 ```bash
 pkg update  && pkg upgrade-y
@@ -17,7 +12,7 @@ pkg install bash -y
 ```
 ## install Wget
 ```bash
-wget https://raw.githubusercontent.com/WilDev26/Kali-Linux/refs/heads/main/kali.sh
+pkg install wget proot -y && wget https://raw.githubusercontent.com/WilDev26/Kali-Linux/refs/heads/main/kali.sh && bash kali.sh
 ```
 ## install clone Repositoriku
 ```bash
