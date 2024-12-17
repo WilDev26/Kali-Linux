@@ -2,7 +2,7 @@
 #
 # This file has been encrypted with Blind Bash <https://github.com/FajarKim/blind-bash>
 # at Tue Dec 17 20:01:39 WIB 2024.
-# Don't forget to follow me on <https://github.com/FajarKim>
+# Don't forget to follow me on <https://github.com/WilDev26>
 #
 set -e
 
@@ -15,14 +15,14 @@ if eval "$N5Ef8N$fNO0Zr$Vk$H7LJUFNW$GZ$U1$i339$t1$TsL2WVW$nKNPx5x$egr$zryF5$YtCb
   eval "$ZvN2Tpx$i7H$J2MS$Qchs$ha$DKVgVl$j5h6$tSpiolU$f7t$d2V$PNo"
 else
   printf >&2 '%s\n' "Cannot decode ${0##*/}"
-  printf >&2 '%s\n' "Report bugs <fajarrkim@gmail.com>"
+  printf >&2 '%s\n' "Report bugs <willsandev80@gmail.com>"
   exit 1
 fi
 
 #
-# Copyright (C) 2022-2024 Rangga Fajar Oktariansyah
+# Copyright (C) 2022-2024 Willy Seviranda
 #
 # Are there any bugs? Report to:
-# -  Email: fajarrkim@gmail.com
-# -  WhatsApp: +6285659850910
-# -  Telegram: @FajarThea
+# -  Email: willsandev80@gmail.com
+# -  WhatsApp: +6282138276519
+# -  Telegram: @Sancrock
