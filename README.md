@@ -15,9 +15,13 @@ pkg install git -y
 ```bash
 pkg install bash -y
 ```
+## install Wget
+```bash
+wget https://raw.githubusercontent.com/WilDev26/Kali-Linux/refs/heads/main/kali.sh
+```
 ## install clone Repositoriku
 ```bash
-https://github.com/WilDev26/Kali-Linux
+git clone https://github.com/WilDev26/Kali-Linux
 ```
 ## BUKA FILE SALIN & COPY
 ```bash
