@@ -10,10 +10,6 @@ pkg install git -y
 ```bash
 pkg install bash -y
 ```
-## install Wget
-```bash
-pkg install wget proot -y && wget https://raw.githubusercontent.com/WilDev26/Kali-Linux/refs/heads/main/kali.sh && bash kali.sh
-```
 ## install clone Repositoriku
 ```bash
 git clone https://github.com/WilDev26/Kali-Linux
